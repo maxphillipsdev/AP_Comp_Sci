@@ -1,4 +1,10 @@
-
+/**
+ * AboutMe
+ * Prints some info about me to the console.
+ * @author 2020_maxwell_phillips
+ *AP Comp Sci
+ *August 22 2017
+ */
 public class AboutMe {
 
 	public static void main(String[] args) {

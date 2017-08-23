@@ -1,0 +1,16 @@
+/**
+ * Exercise 2 Project
+ * Prints a TIC-TAC-TOE game to the console
+ * @author 2020_maxwell_phillips
+ * AP Computer Science
+ * August 21 2017
+ */
+public class Exercise_2 {
+
+	public static void main(String[] args) {
+		System.out.format("%6s %6s","|\n");
+		
+
+	}
+
+}

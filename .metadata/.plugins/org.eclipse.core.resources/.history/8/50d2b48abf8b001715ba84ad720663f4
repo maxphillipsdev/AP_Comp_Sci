@@ -1,0 +1,15 @@
+/**
+ * 
+ * @author 2020_maxwell_phillips
+ *
+ */
+public class RectanglePerimeter {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int width = 4;
+		int length = 13;
+		System.out.println();
+	}
+
+}

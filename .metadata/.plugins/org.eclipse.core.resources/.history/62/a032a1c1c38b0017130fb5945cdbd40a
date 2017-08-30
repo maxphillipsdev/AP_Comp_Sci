@@ -1,0 +1,11 @@
+
+public class Distance {
+
+	public static void main(String[] args) {
+		// Declare Variables
+		float first_segment = 12.2f;
+		float second_segment = 10.6f;
+		float third_segment = 5.8f;
+	}
+
+}

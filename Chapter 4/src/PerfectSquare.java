@@ -21,6 +21,7 @@ public class PerfectSquare {
 		} else {
 			System.out.println("Not a very perfect square!");
 		}
+		input.close();
 	}
 
 }

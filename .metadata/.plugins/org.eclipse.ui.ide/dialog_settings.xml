@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/2020_maxwell_phillips/Downloads/FXGL-Maven-master"/>
+		<item value="/Users/2020_maxwell_phillips/Downloads/FXGL-Maven-master.zip"/>
 		<item value="/Users/2020_maxwell_phillips/Documents/GitHub/AP_Comp_Sci/Chapter2"/>
 	</list>
 	<section name="WORKBENCH_SETTINGS">

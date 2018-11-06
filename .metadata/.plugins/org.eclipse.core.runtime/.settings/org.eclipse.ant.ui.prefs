@@ -1,9 +1,9 @@
+content_assist_autoactivation_triggers_java=.(ab
 eclipse.preferences.version=1
-org.eclipse.ant.ui.commentsColor=98,98,98
-org.eclipse.ant.ui.constantStringsColor=23,198,163
-org.eclipse.ant.ui.dtdColor=167,236,33
-org.eclipse.ant.ui.processingInstructionsColor=217,232,247
-org.eclipse.ant.ui.tagsColor=167,236,33
-org.eclipse.ant.ui.textColor=217,232,247
+problem_classpath=warning
+problem_imports=warning
+problem_properties=ignore
+problem_security=warning
+problem_tasks=ignore
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true

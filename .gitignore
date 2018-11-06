@@ -14,3 +14,28 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /.metadata/
+/.recommenders/
+/Chapter 8/nbproject/private/
+/LastChapterTextbook/nbproject/private/
+/Project9/nbproject/private/
+/IB-AP-Review/nbproject/private/
+/Chapter9++/nbproject/private/
+/Chapter 3/nbproject/private/
+/Chapter 4/nbproject/private/
+/Chapter2/nbproject/private/
+/Chapter 11/nbproject/private/
+/LastChapterTextbookTest/nbproject/private/
+/Chapter 6/nbproject/private/
+/Project 7 2/nbproject/private/
+/Chapter 10/nbproject/private/
+/Chapter 9/nbproject/private/
+/Chapter 5/nbproject/private/
+/Chapter 12/nbproject/private/
+/Project 7/nbproject/private/
+/TEXEL/nbproject/private/
+/AP Review/nbproject/private/
+/Chapter 7/nbproject/private/
+/Chapter 11/build/
+/LastChapterTextbook/dist/
+/LastChapterTextbook/build/
+/Chapter 11/dist/
